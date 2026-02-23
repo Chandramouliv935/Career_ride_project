@@ -1,0 +1,395 @@
+{
+  "central_schemes": [
+    {
+      "id": "DIGITAL_INDIA",
+      "name": "Digital India Programme",
+      "ministry": "Ministry of Electronics and IT",
+      "focus": "Digital infrastructure and e-governance",
+      "eligibility": "All Indian citizens",
+      "benefits": "Digital services, online governance access"
+    },
+    {
+      "id": "STARTUP_INDIA",
+      "name": "Startup India Initiative",
+      "ministry": "Department for Promotion of Industry and Internal Trade",
+      "focus": "Startup ecosystem development",
+      "eligibility": "Registered startups in India",
+      "benefits": "Tax benefits, funding support, mentorship"
+    },
+    {
+      "id": "MEITY_TIDE",
+      "name": "TIDE 2.0 Scheme",
+      "ministry": "Ministry of Electronics and IT",
+      "focus": "Tech startup incubation",
+      "eligibility": "Tech startups and incubators",
+      "benefits": "Grant up to ₹7 crore for incubation"
+    }
+  ],
+
+  "state_schemes": {
+
+    "Andhra Pradesh": [
+      {
+        "name": "AP Innovation & Startup Policy",
+        "focus": "Technology startups",
+        "benefits": "Funding, incubation, mentorship"
+      },
+      {
+        "name": "AP FibreNet Digital Programme",
+        "focus": "Broadband & digital connectivity",
+        "benefits": "High-speed internet infrastructure"
+      }
+    ],
+
+    "Arunachal Pradesh": [
+      {
+        "name": "Arunachal IT Policy",
+        "focus": "IT sector growth",
+        "benefits": "Incentives for tech companies"
+      },
+      {
+        "name": "Digital Arunachal Initiative",
+        "focus": "E-governance services",
+        "benefits": "Online public service access"
+      }
+    ],
+
+    "Assam": [
+      {
+        "name": "Assam Startup Policy",
+        "focus": "Tech entrepreneurship",
+        "benefits": "Seed funding support"
+      },
+      {
+        "name": "Assam IT & Electronics Policy",
+        "focus": "IT infrastructure",
+        "benefits": "Incentives for IT firms"
+      }
+    ],
+
+    "Bihar": [
+      {
+        "name": "Bihar Startup Policy",
+        "focus": "Technology startups",
+        "benefits": "Grant up to ₹10 lakh"
+      },
+      {
+        "name": "Bihar IT Policy",
+        "focus": "IT & software industry",
+        "benefits": "Subsidies for tech parks"
+      }
+    ],
+
+    "Chhattisgarh": [
+      {
+        "name": "CG IT & Electronics Policy",
+        "focus": "IT/ITES industry",
+        "benefits": "Investment incentives"
+      },
+      {
+        "name": "Tech Innovation Scheme CG",
+        "focus": "Innovation hubs",
+        "benefits": "Startup incubation"
+      }
+    ],
+
+    "Goa": [
+      {
+        "name": "Goa Startup Policy",
+        "focus": "Tech startups",
+        "benefits": "Funding + coworking support"
+      },
+      {
+        "name": "Goa IT Policy",
+        "focus": "IT companies",
+        "benefits": "Tax benefits"
+      }
+    ],
+
+    "Gujarat": [
+      {
+        "name": "Gujarat IT/ITES Policy",
+        "focus": "IT sector growth",
+        "benefits": "Capital subsidies"
+      },
+      {
+        "name": "iCreate Startup Scheme",
+        "focus": "Innovation & tech startups",
+        "benefits": "Mentorship + incubation"
+      }
+    ],
+
+    "Haryana": [
+      {
+        "name": "Haryana IT Policy",
+        "focus": "IT & Electronics",
+        "benefits": "Incentives for tech parks"
+      },
+      {
+        "name": "Startup Haryana",
+        "focus": "Tech entrepreneurship",
+        "benefits": "Seed funding support"
+      }
+    ],
+
+    "Himachal Pradesh": [
+      {
+        "name": "HP IT Policy",
+        "focus": "Software industry",
+        "benefits": "Infrastructure support"
+      },
+      {
+        "name": "HP Startup Scheme",
+        "focus": "Technology startups",
+        "benefits": "Funding incentives"
+      }
+    ],
+
+    "Jharkhand": [
+      {
+        "name": "Jharkhand IT Policy",
+        "focus": "IT sector",
+        "benefits": "Capital subsidy"
+      },
+      {
+        "name": "Startup Jharkhand",
+        "focus": "Tech innovation",
+        "benefits": "Financial assistance"
+      }
+    ],
+
+    "Karnataka": [
+      {
+        "name": "Karnataka Startup Policy",
+        "focus": "Tech & AI startups",
+        "benefits": "Funding + global exposure"
+      },
+      {
+        "name": "ELEVATE Program",
+        "focus": "Deep-tech innovation",
+        "benefits": "Grant funding"
+      }
+    ],
+
+    "Kerala": [
+      {
+        "name": "Kerala Startup Mission",
+        "focus": "Technology startups",
+        "benefits": "Incubation & funding"
+      },
+      {
+        "name": "Kerala IT Policy",
+        "focus": "IT/ITES industry",
+        "benefits": "Infrastructure support"
+      }
+    ],
+
+    "Madhya Pradesh": [
+      {
+        "name": "MP Startup Policy",
+        "focus": "Tech startups",
+        "benefits": "Seed funding"
+      },
+      {
+        "name": "MP IT Policy",
+        "focus": "IT sector",
+        "benefits": "Investment subsidy"
+      }
+    ],
+
+    "Maharashtra": [
+      {
+        "name": "Maharashtra Startup Policy",
+        "focus": "Technology startups",
+        "benefits": "Financial incentives"
+      },
+      {
+        "name": "Maharashtra IT/ITES Policy",
+        "focus": "IT infrastructure",
+        "benefits": "Subsidies & tax benefits"
+      }
+    ],
+
+    "Manipur": [
+      {
+        "name": "Manipur IT Policy",
+        "focus": "IT infrastructure",
+        "benefits": "Incentives for IT firms"
+      },
+      {
+        "name": "Startup Manipur",
+        "focus": "Tech entrepreneurship",
+        "benefits": "Financial support"
+      }
+    ],
+
+    "Meghalaya": [
+      {
+        "name": "Meghalaya IT Policy",
+        "focus": "Digital economy",
+        "benefits": "Startup support"
+      },
+      {
+        "name": "Startup Meghalaya",
+        "focus": "Innovation promotion",
+        "benefits": "Funding grants"
+      }
+    ],
+
+    "Mizoram": [
+      {
+        "name": "Mizoram IT Policy",
+        "focus": "IT sector growth",
+        "benefits": "Investment incentives"
+      },
+      {
+        "name": "Startup Mizoram",
+        "focus": "Tech startups",
+        "benefits": "Financial assistance"
+      }
+    ],
+
+    "Nagaland": [
+      {
+        "name": "Nagaland IT Policy",
+        "focus": "Digital transformation",
+        "benefits": "Tech sector incentives"
+      },
+      {
+        "name": "Startup Nagaland",
+        "focus": "Innovation support",
+        "benefits": "Funding support"
+      }
+    ],
+
+    "Odisha": [
+      {
+        "name": "Odisha IT Policy",
+        "focus": "IT/ITES growth",
+        "benefits": "Subsidy benefits"
+      },
+      {
+        "name": "Startup Odisha",
+        "focus": "Tech startups",
+        "benefits": "Seed funding"
+      }
+    ],
+
+    "Punjab": [
+      {
+        "name": "Punjab IT Policy",
+        "focus": "IT parks",
+        "benefits": "Capital incentives"
+      },
+      {
+        "name": "Startup Punjab",
+        "focus": "Tech innovation",
+        "benefits": "Financial support"
+      }
+    ],
+
+    "Rajasthan": [
+      {
+        "name": "Rajasthan Startup Policy",
+        "focus": "Technology startups",
+        "benefits": "Funding + incubation"
+      },
+      {
+        "name": "Rajasthan IT Policy",
+        "focus": "IT/ITES",
+        "benefits": "Infrastructure support"
+      }
+    ],
+
+    "Sikkim": [
+      {
+        "name": "Sikkim IT Policy",
+        "focus": "Digital services",
+        "benefits": "Incentives for IT firms"
+      },
+      {
+        "name": "Startup Sikkim",
+        "focus": "Tech entrepreneurship",
+        "benefits": "Financial grants"
+      }
+    ],
+
+    "Tamil Nadu": [
+      {
+        "name": "Startup Tamil Nadu",
+        "focus": "Tech startups",
+        "benefits": "Funding & incubation"
+      },
+      {
+        "name": "Tamil Nadu IT Policy",
+        "focus": "IT/ITES industry",
+        "benefits": "Investment subsidies"
+      }
+    ],
+
+    "Telangana": [
+      {
+        "name": "T-Hub Startup Program",
+        "focus": "Tech innovation",
+        "benefits": "Incubation & funding"
+      },
+      {
+        "name": "Telangana IT Policy",
+        "focus": "IT sector growth",
+        "benefits": "Subsidy support"
+      }
+    ],
+
+    "Tripura": [
+      {
+        "name": "Tripura IT Policy",
+        "focus": "Digital infrastructure",
+        "benefits": "Tech incentives"
+      },
+      {
+        "name": "Startup Tripura",
+        "focus": "Innovation support",
+        "benefits": "Funding assistance"
+      }
+    ],
+
+    "Uttar Pradesh": [
+      {
+        "name": "UP Startup Policy",
+        "focus": "Tech entrepreneurship",
+        "benefits": "Seed funding"
+      },
+      {
+        "name": "UP IT & Electronics Policy",
+        "focus": "IT/Hardware sector",
+        "benefits": "Investment incentives"
+      }
+    ],
+
+    "Uttarakhand": [
+      {
+        "name": "Uttarakhand IT Policy",
+        "focus": "IT industry",
+        "benefits": "Subsidy benefits"
+      },
+      {
+        "name": "Startup Uttarakhand",
+        "focus": "Tech startups",
+        "benefits": "Financial support"
+      }
+    ],
+
+    "West Bengal": [
+      {
+        "name": "West Bengal IT Policy",
+        "focus": "IT/ITES sector",
+        "benefits": "Capital subsidies"
+      },
+      {
+        "name": "Startup Bengal",
+        "focus": "Technology innovation",
+        "benefits": "Funding assistance"
+      }
+    ]
+  }
+} 

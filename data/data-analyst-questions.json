@@ -1,0 +1,243 @@
+
+[
+    {
+      "id": 1,
+      "category": "analytics",
+      "difficulty": "easy",
+      "question": "Which library is primarily used for data manipulation in Python?",
+      "options": ["NumPy", "Pandas", "Matplotlib", "TensorFlow"],
+      "answerIndex": 1
+    },
+    {
+      "id": 2,
+      "category": "analytics",
+      "difficulty": "easy",
+      "question": "Which chart is best for showing trends over time?",
+      "options": ["Pie chart", "Line chart", "Scatter plot", "Histogram"],
+      "answerIndex": 1
+    },
+    {
+      "id": 3,
+      "category": "statistics",
+      "difficulty": "easy",
+      "question": "What is the 'mean' of a dataset?",
+      "options": ["The middle value", "The average value", "The most frequent value", "The range of values"],
+      "answerIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "sql",
+      "difficulty": "easy",
+      "question": "Which SQL clause is used to filter rows from a table?",
+      "options": ["ORDER BY", "GROUP BY", "WHERE", "JOIN"],
+      "answerIndex": 2
+    },
+    {
+      "id": 5,
+      "category": "analytics",
+      "difficulty": "easy",
+      "question": "What is a common first step in handling missing values in a dataset?",
+      "options": ["Ignoring the entire dataset", "Deleting the database", "Imputation or removal of rows/columns", "Encrypting the data"],
+      "answerIndex": 2
+    },
+    {
+      "id": 6,
+      "category": "sql",
+      "difficulty": "medium",
+      "question": "Which SQL function is used to calculate the number of rows in a result set?",
+      "options": ["SUM()", "COUNT()", "AVG()", "MAX()"],
+      "answerIndex": 1
+    },
+    {
+      "id": 7,
+      "category": "statistics",
+      "difficulty": "medium",
+      "question": "What does the standard deviation measure?",
+      "options": ["The size of the dataset", "The spread or dispersion of data points", "The central value of the data", "The skewness of the distribution"],
+      "answerIndex": 1
+    },
+    {
+      "id": 8,
+      "category": "analytics",
+      "difficulty": "medium",
+      "question": "In data preprocessing, what is 'normalization' primarily used for?",
+      "options": ["Reducing duplicate records", "Scaling numeric features to a common range (e.g., 0-1)", "Sorting data alphabetically", "Removing unnecessary columns"],
+      "answerIndex": 1
+    },
+    {
+      "id": 9,
+      "category": "ml",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a supervised learning algorithm?",
+      "options": ["K-Means Clustering", "Linear Regression", "Principal Component Analysis (PCA)", "Apriori Algorithm"],
+      "answerIndex": 1
+    },
+    {
+      "id": 10,
+      "category": "visualization",
+      "difficulty": "medium",
+      "question": "Which of these tools is most widely used for creating interactive business intelligence dashboards?",
+      "options": ["Git", "Docker", "Tableau", "Postman"],
+      "answerIndex": 2
+    },
+    {
+      "id": 11,
+      "category": "sql",
+      "difficulty": "medium",
+      "question": "Which type of SQL JOIN returns only the rows that have matching values in both tables?",
+      "options": ["LEFT JOIN", "RIGHT JOIN", "INNER JOIN", "FULL OUTER JOIN"],
+      "answerIndex": 2
+    },
+    {
+      "id": 12,
+      "category": "statistics",
+      "difficulty": "medium",
+      "question": "The median is often a better measure of central tendency than the mean when...?",
+      "options": ["The data is perfectly symmetrical", "The dataset contains significant outliers", "The dataset is very small", "All values in the dataset are equal"],
+      "answerIndex": 1
+    },
+    {
+      "id": 13,
+      "category": "analytics",
+      "difficulty": "medium",
+      "question": "In data warehousing, what does ETL stand for?",
+      "options": ["Extract, Transform, Load", "Evaluate, Test, Learn", "Encode, Train, Label", "Execute, Track, Log"],
+      "answerIndex": 0
+    },
+    {
+      "id": 14,
+      "category": "ml",
+      "difficulty": "medium",
+      "question": "Which metric is commonly used to evaluate the performance of a classification model?",
+      "options": ["Mean Squared Error (MSE)", "R-squared", "Accuracy Score", "Mean Absolute Error (MAE)"],
+      "answerIndex": 2
+    },
+    {
+      "id": 15,
+      "category": "analytics",
+      "difficulty": "medium",
+      "question": "Which file format is highly efficient and commonly used for large-scale data storage in systems like Apache Spark?",
+      "options": ["CSV", "JSON", "Parquet", "TXT"],
+      "answerIndex": 2
+    },
+    {
+      "id": 16,
+      "category": "statistics",
+      "difficulty": "hard",
+      "question": "Which probability distribution is most appropriate for modeling the number of events occurring in a fixed interval of time or space?",
+      "options": ["Normal Distribution", "Poisson Distribution", "Binomial Distribution", "Exponential Distribution"],
+      "answerIndex": 1
+    },
+    {
+      "id": 17,
+      "category": "ml",
+      "difficulty": "hard",
+      "question": "What is the primary problem caused by 'overfitting' a machine learning model?",
+      "options": ["The model has poor accuracy on the training data", "The model performs poorly on new, unseen data (poor generalization)", "The model takes too long to train", "The model causes a memory leak"],
+      "answerIndex": 1
+    },
+    {
+      "id": 18,
+      "category": "ml",
+      "difficulty": "hard",
+      "question": "Which of these techniques is primarily used for dimensionality reduction?",
+      "options": ["Gradient Descent", "Principal Component Analysis (PCA)", "Random Forest", "Naive Bayes"],
+      "answerIndex": 1
+    },
+    {
+      "id": 19,
+      "category": "sql",
+      "difficulty": "hard",
+      "question": "Which SQL clause is used with aggregate functions to filter groups based on a specified condition?",
+      "options": ["WHERE", "ORDER BY", "HAVING", "LIMIT"],
+      "answerIndex": 2
+    },
+    {
+      "id": 20,
+      "category": "ml",
+      "difficulty": "hard",
+      "question": "For an imbalanced classification problem, which metric is often more informative than accuracy?",
+      "options": ["Accuracy", "F1-Score or Precision-Recall Curve", "Mean Squared Error (MSE)", "Variance"],
+      "answerIndex": 1
+    },
+    {
+      "id": 21,
+      "category": "analytics",
+      "difficulty": "easy",
+      "question": "Which file format consists of comma-separated values and is widely supported for storing tabular data?",
+      "options": ["CSV", "MP4", "PNG", "ZIP"],
+      "answerIndex": 0
+    },
+    {
+      "id": 22,
+      "category": "statistics",
+      "difficulty": "easy",
+      "question": "What does the 'mode' of a dataset represent?",
+      "options": ["The middle value", "The most frequently occurring value", "The average value", "The spread of values"],
+      "answerIndex": 1
+    },
+    {
+      "id": 23,
+      "category": "ml",
+      "difficulty": "medium",
+      "question": "What is the main purpose of splitting a dataset into training and testing sets?",
+      "options": ["To make the training process faster", "To evaluate the model's performance on unseen data", "To reduce the amount of data storage needed", "To clean the data more effectively"],
+      "answerIndex": 1
+    },
+    {
+      "id": 24,
+      "category": "analytics",
+      "difficulty": "medium",
+      "question": "Which Python library is built on top of Matplotlib and is excellent for statistical data visualization?",
+      "options": ["Flask", "Seaborn", "Requests", "Django"],
+      "answerIndex": 1
+    },
+    {
+      "id": 25,
+      "category": "ml",
+      "difficulty": "hard",
+      "question": "The Gradient Descent algorithm is an optimization technique used to minimize what?",
+      "options": ["The learning rate", "The model's loss function", "The size of the dataset", "The model's accuracy"],
+      "answerIndex": 1
+    },
+    {
+      "id": 26,
+      "category": "statistics",
+      "difficulty": "medium",
+      "question": "A correlation coefficient of -0.9 indicates a...?",
+      "options": ["Weak positive correlation", "Strong negative correlation", "Strong positive correlation", "No correlation"],
+      "answerIndex": 1
+    },
+    {
+      "id": 27,
+      "category": "sql",
+      "difficulty": "easy",
+      "question": "Which SQL command is used to permanently remove a table and all its data from a database?",
+      "options": ["DELETE TABLE", "TRUNCATE TABLE", "DROP TABLE", "REMOVE TABLE"],
+      "answerIndex": 2
+    },
+    {
+      "id": 28,
+      "category": "ml",
+      "difficulty": "hard",
+      "question": "Which of these algorithms is a form of unsupervised learning used for clustering?",
+      "options": ["Logistic Regression", "K-Means", "Decision Tree", "Support Vector Machine"],
+      "answerIndex": 1
+    },
+    {
+      "id": 29,
+      "category": "analytics",
+      "difficulty": "medium",
+      "question": "Why is data cleaning a crucial step in the data analysis process?",
+      "options": ["To add more features to the dataset", "To improve data quality and ensure reliable analysis results", "To reduce the physical storage size of the data", "To encrypt sensitive files"],
+      "answerIndex": 1
+    },
+    {
+      "id": 30,
+      "category": "statistics",
+      "difficulty": "hard",
+      "question": "In hypothesis testing, what does a small p-value (e.g., < 0.05) typically indicate?",
+      "options": ["The null hypothesis is likely true", "There is strong evidence against the null hypothesis", "The result is not statistically significant", "The sample size was too small"],
+      "answerIndex": 1
+    }
+]

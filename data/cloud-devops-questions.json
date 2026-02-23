@@ -1,0 +1,358 @@
+
+[
+    {
+      "id": 1,
+      "category": "linux",
+      "difficulty": "easy",
+      "question": "Which command lists files in a Linux directory?",
+      "options": ["pwd", "ls", "cd", "mv"],
+      "answerIndex": 1
+    },
+    {
+      "id": 2,
+      "category": "cloud",
+      "difficulty": "easy",
+      "question": "What is the primary benefit of cloud computing?",
+      "options": [
+        "It provides only physical servers",
+        "It offers on-demand, scalable resources",
+        "It is only for offline storage",
+        "It requires manual deployment for all services"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 3,
+      "category": "devops",
+      "difficulty": "easy",
+      "question": "In CI/CD, what does 'CI' stand for?",
+      "options": [
+        "Code Integration",
+        "Continuous Integration",
+        "Cloud Infrastructure",
+        "Container Instance"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "docker",
+      "difficulty": "easy",
+      "question": "What is Docker primarily used for?",
+      "options": [
+        "Monitoring system logs",
+        "Containerizing applications",
+        "Executing database queries",
+        "Configuring firewall rules"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 5,
+      "category": "network",
+      "difficulty": "easy",
+      "question": "Which protocol is standard for secure remote login to a server?",
+      "options": ["HTTP", "FTP", "SSH", "SMTP"],
+      "answerIndex": 2
+    },
+    {
+      "id": 6,
+      "category": "docker",
+      "difficulty": "medium",
+      "question": "What is a Docker image?",
+      "options": [
+        "A running instance of a container",
+        "A read-only template used to create containers",
+        "A snapshot of a database",
+        "A type of network driver"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 7,
+      "category": "kubernetes",
+      "difficulty": "medium",
+      "question": "What is the primary function of Kubernetes?",
+      "options": [
+        "Compiling source code",
+        "Orchestrating containerized applications",
+        "Setting up firewalls",
+        "Managing relational databases"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 8,
+      "category": "cloud",
+      "difficulty": "medium",
+      "question": "Which AWS service provides scalable object storage?",
+      "options": ["EC2", "RDS", "S3", "Lambda"],
+      "answerIndex": 2
+    },
+    {
+      "id": 9,
+      "category": "devops",
+      "difficulty": "medium",
+      "question": "What is the main purpose of a CI/CD pipeline?",
+      "options": [
+        "To perform manual deployments",
+        "To automate the build, test, and deployment process",
+        "To store application logs",
+        "To block malicious network traffic"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 10,
+      "category": "linux",
+      "difficulty": "medium",
+      "question": "Which Linux command is used to check for currently running processes?",
+      "options": ["ps", "ls", "cat", "touch"],
+      "answerIndex": 0
+    },
+    {
+      "id": 11,
+      "category": "cloud",
+      "difficulty": "medium",
+      "question": "What is the function of a load balancer?",
+      "options": [
+        "To store persistent data",
+        "To distribute incoming traffic across multiple servers",
+        "To encrypt data at rest",
+        "To compile application code"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 12,
+      "category": "devops",
+      "difficulty": "medium",
+      "question": "Infrastructure as Code (IaC) is commonly implemented using tools like?",
+      "options": ["Microsoft Excel", "Terraform", "Adobe Photoshop", "Notepad"],
+      "answerIndex": 1
+    },
+    {
+      "id": 13,
+      "category": "monitoring",
+      "difficulty": "medium",
+      "question": "Which of these tools is widely used for monitoring systems and collecting metrics?",
+      "options": ["Git", "Prometheus", "MySQL", "VS Code"],
+      "answerIndex": 1
+    },
+    {
+      "id": 14,
+      "category": "docker",
+      "difficulty": "medium",
+      "question": "What is `docker-compose` used for?",
+      "options": [
+        "To write application code",
+        "To define and run multi-container Docker applications",
+        "To monitor application logs",
+        "To encrypt Docker images"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 15,
+      "category": "network",
+      "difficulty": "medium",
+      "question": "What does DNS (Domain Name System) resolve?",
+      "options": [
+        "User passwords",
+        "Domain names to IP addresses",
+        "File permissions",
+        "System logs"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 16,
+      "category": "kubernetes",
+      "difficulty": "hard",
+      "question": "In Kubernetes, what does a 'Pod' represent?",
+      "options": [
+        "A persistent storage volume",
+        "The smallest deployable unit, representing a group of one or more containers",
+        "A type of load balancer",
+        "A physical node in the cluster"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 17,
+      "category": "cloud",
+      "difficulty": "hard",
+      "question": "What is the primary benefit of auto-scaling?",
+      "options": [
+        "It simplifies manual server setup",
+        "It automatically adjusts capacity to maintain performance and optimize costs",
+        "It formats storage disks automatically",
+        "It improves the quality of application code"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 18,
+      "category": "devops",
+      "difficulty": "hard",
+      "question": "What is the main advantage of a Blue-Green deployment strategy?",
+      "options": [
+        "It reduces the amount of storage required",
+        "It minimizes downtime and risk by running two identical environments",
+        "It reduces the size of the application code",
+        "It increases network speed"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 19,
+      "category": "network",
+      "difficulty": "hard",
+      "question": "What does CIDR (Classless Inter-Domain Routing) notation help with?",
+      "options": [
+        "Data encryption",
+        "Efficiently allocating IP addresses and routing traffic",
+        "Building Docker images faster",
+        "Aggregating logs"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 20,
+      "category": "monitoring",
+      "difficulty": "hard",
+      "question": "Site Reliability Engineering (SRE) primarily focuses on?",
+      "options": [
+        "Performing manual fixes for all issues",
+        "Improving system reliability and performance through automation",
+        "Designing user interfaces",
+        "Marketing new products"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 21,
+      "category": "linux",
+      "difficulty": "easy",
+      "question": "Which command is used to change the current directory in Linux?",
+      "options": [".env", "cd", ".log", ".json"],
+      "answerIndex": 1
+    },
+    {
+      "id": 22,
+      "category": "docker",
+      "difficulty": "easy",
+      "question": "What does the `docker run` command do?",
+      "options": [
+        "It builds a new image",
+        "It creates and starts a new container from an image",
+        "It creates a persistent volume",
+        "It creates a new network"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 23,
+      "category": "cloud",
+      "difficulty": "medium",
+      "question": "Which of these is an example of a serverless computing service?",
+      "options": [
+        "Amazon EC2",
+        "AWS Lambda",
+        "VMware vSphere",
+        "Bare metal server"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 24,
+      "category": "devops",
+      "difficulty": "medium",
+      "question": "What is the main benefit of using Git branching?",
+      "options": [
+        "It allows for parallel development and isolation of new features",
+        "It increases the storage capacity of the repository",
+        "It monitors the application for errors",
+        "It configures the network"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 25,
+      "category": "security",
+      "difficulty": "hard",
+      "question": "The Principle of Least Privilege in a cloud environment ensures...?",
+      "options": [
+        "All users have maximum access",
+        "An identity has only the minimum permissions required to perform its task",
+        "Multiple users share a single, highly privileged account",
+        "All network ports are open by default"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 26,
+      "category": "kubernetes",
+      "difficulty": "medium",
+      "question": "What is `kubectl` primarily used for?",
+      "options": [
+        "Compiling Go code",
+        "Interacting with the Kubernetes API to manage cluster resources",
+        "Building Docker images",
+        "Running SQL queries against a database"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 27,
+      "category": "monitoring",
+      "difficulty": "medium",
+      "question": "Why are logs important in a production environment?",
+      "options": [
+        "They are used for designing the UI",
+        "They are essential for debugging issues, auditing, and monitoring",
+        "They are used for deploying new code",
+        "They are used for auto-scaling"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 28,
+      "category": "cloud",
+      "difficulty": "hard",
+      "question": "What are the main benefits of a multi-region cloud deployment?",
+      "options": [
+        "Reduced latency for users and increased availability/disaster recovery",
+        "Reduced application file size",
+        "Reduced code complexity",
+        "Faster code compilation"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 29,
+      "category": "devops",
+      "difficulty": "medium",
+      "question": "What is a 'rollback' strategy in deployment?",
+      "options": [
+        "A strategy to add new features to the application",
+        "A plan to revert to a previous, stable version of the application",
+        "A method for deleting old logs",
+        "A way to increase server memory"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 30,
+      "category": "security",
+      "difficulty": "hard",
+      "question": "How should sensitive information like API keys be stored in a CI/CD pipeline?",
+      "options": [
+        "Hardcoded directly in the source code",
+        "Using a secure secret manager or encrypted environment variables",
+        "In a public Git repository",
+        "In plain text files on the build server"
+      ],
+      "answerIndex": 1
+    }
+]

@@ -1,0 +1,131 @@
+{
+  "careers": [
+    {
+      "id": "software-engineer",
+      "title": "Software Engineer",
+      "nodes": [
+        { "id": "intro", "label": "Programming Basics (Python/JS)" },
+        { "id": "ds", "label": "Data Structures & Algorithms" },
+        { "id": "frontend", "label": "Frontend (HTML, CSS, React)" },
+        { "id": "backend", "label": "Backend (Node.js/Express)" },
+        { "id": "db", "label": "Databases (SQL & NoSQL)" },
+        { "id": "api", "label": "APIs (REST/GraphQL)" },
+        { "id": "auth", "label": "Authentication (JWT/OAuth)" },
+        { "id": "git", "label": "Git & Version Control" },
+        { "id": "deploy", "label": "Deployment & CI/CD Basics" },
+        { "id": "goal", "label": "Job Ready" }
+      ],
+      "edges": [
+        ["intro","ds"],
+        ["ds","frontend"],
+        ["frontend","backend"],
+        ["backend","db"],
+        ["db","api"],
+        ["api","auth"],
+        ["auth","git"],
+        ["git","deploy"],
+        ["deploy","goal"]
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "title": "Data Analyst / Scientist",
+      "nodes": [
+        { "id": "python", "label": "Python for Data Science" },
+        { "id": "pandas", "label": "Pandas & NumPy" },
+        { "id": "sql", "label": "Advanced SQL" },
+        { "id": "stats", "label": "Statistics & Probability" },
+        { "id": "viz", "label": "Data Visualization (Tableau/Seaborn)" },
+        { "id": "etl", "label": "ETL & Data Cleaning" },
+        { "id": "ml", "label": "Machine Learning Fundamentals" },
+        { "id": "projects", "label": "Portfolio Projects" },
+        { "id": "goal", "label": "Job Ready" }
+      ],
+      "edges": [
+        ["python","pandas"],
+        ["pandas","sql"],
+        ["sql","stats"],
+        ["stats","viz"],
+        ["viz","etl"],
+        ["etl","ml"],
+        ["ml","projects"],
+        ["projects","goal"]
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "title": "Cybersecurity Analyst",
+      "nodes": [
+        { "id": "net", "label": "Networking Fundamentals" },
+        { "id": "linux", "label": "Linux Command Line" },
+        { "id": "security", "label": "Security Principles (CIA Triad)" },
+        { "id": "crypto", "label": "Cryptography Basics" },
+        { "id": "websec", "label": "Web Security (OWASP Top 10)" },
+        { "id": "tools", "label": "Security Tools (Nmap, Wireshark, SIEM)" },
+        { "id": "pentest", "label": "Penetration Testing Methodology" },
+        { "id": "incident", "label": "Incident Response & Forensics" },
+        { "id": "goal", "label": "Job Ready" }
+      ],
+      "edges": [
+        ["net","linux"],
+        ["linux","security"],
+        ["security","crypto"],
+        ["crypto","websec"],
+        ["websec","tools"],
+        ["tools","pentest"],
+        ["pentest","incident"],
+        ["incident","goal"]
+      ]
+    },
+    {
+      "id": "cloud-devops",
+      "title": "Cloud / DevOps Engineer",
+      "nodes": [
+        { "id": "linux", "label": "Linux & Shell Scripting" },
+        { "id": "git", "label": "Git & Version Control" },
+        { "id": "docker", "label": "Docker & Containerization" },
+        { "id": "k8s", "label": "Kubernetes Orchestration" },
+        { "id": "cloud", "label": "Cloud Provider (AWS/Azure/GCP)" },
+        { "id": "iac", "label": "Infrastructure as Code (Terraform)" },
+        { "id": "cicd", "label": "CI/CD Pipelines (Jenkins/GitHub Actions)" },
+        { "id": "monitor", "label": "Monitoring & Logging (Prometheus)" },
+        { "id": "goal", "label": "Job Ready" }
+      ],
+      "edges": [
+        ["linux","git"],
+        ["git","docker"],
+        ["docker","k8s"],
+        ["k8s","cloud"],
+        ["cloud","iac"],
+        ["iac","cicd"],
+        ["cicd","monitor"],
+        ["monitor","goal"]
+      ]
+    },
+    {
+      "id": "ai-ml",
+      "title": "AI / Machine Learning Engineer",
+      "nodes": [
+        { "id": "python", "label": "Advanced Python" },
+        { "id": "math", "label": "Math (Linear Algebra, Calculus, Stats)" },
+        { "id": "pandas", "label": "Data Manipulation (NumPy/Pandas)" },
+        { "id": "ml", "label": "Machine Learning Algorithms" },
+        { "id": "dl", "label": "Deep Learning (CNNs, RNNs)" },
+        { "id": "frameworks", "label": "Frameworks (TensorFlow/PyTorch)" },
+        { "id": "deploy", "label": "MLOps & Model Deployment" },
+        { "id": "projects", "label": "Specialized Projects (NLP/CV)" },
+        { "id": "goal", "label": "Job Ready" }
+      ],
+      "edges": [
+        ["python","math"],
+        ["math","pandas"],
+        ["pandas","ml"],
+        ["ml","dl"],
+        ["dl","frameworks"],
+        ["frameworks","deploy"],
+        ["deploy","projects"],
+        ["projects","goal"]
+      ]
+    }
+  ]
+}

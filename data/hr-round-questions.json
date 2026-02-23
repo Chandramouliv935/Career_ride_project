@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Tell me about yourself. Walk me through your resume."
+  },
+  {
+    "id": 2,
+    "question": "What are your biggest strengths and weaknesses?"
+  },
+  {
+    "id": 3,
+    "question": "Describe a challenging situation you faced in a project and how you handled it."
+  },
+  {
+    "id": 4,
+    "question": "Where do you see yourself in the next 5 years?"
+  },
+  {
+    "id": 5,
+    "question": "Why do you want to work for our company and in this specific role?"
+  }
+]

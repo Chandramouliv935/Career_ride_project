@@ -1,0 +1,353 @@
+
+[
+    {
+      "id": 1,
+      "category": "fundamentals",
+      "difficulty": "easy",
+      "question": "What does CIA stand for in cybersecurity?",
+      "options": [
+        "Control, Integrity, Access",
+        "Confidentiality, Integrity, Availability",
+        "Central Internet Authority",
+        "Cyber Intelligence Agency"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 2,
+      "category": "network",
+      "difficulty": "easy",
+      "question": "Which protocol is used for secure web communication?",
+      "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+      "answerIndex": 2
+    },
+    {
+      "id": 3,
+      "category": "fundamentals",
+      "difficulty": "easy",
+      "question": "What is phishing primarily used for?",
+      "options": [
+        "Encrypting data",
+        "Stealing user credentials",
+        "Blocking traffic",
+        "Backing up files"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "network",
+      "difficulty": "easy",
+      "question": "A firewall mainly does what?",
+      "options": [
+        "Store passwords",
+        "Filter network traffic",
+        "Scan viruses",
+        "Backup systems"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 5,
+      "category": "fundamentals",
+      "difficulty": "easy",
+      "question": "Strong passwords should include?",
+      "options": [
+        "Only numbers",
+        "Only letters",
+        "Mix of letters, numbers, symbols",
+        "Only uppercase"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "id": 6,
+      "category": "network",
+      "difficulty": "medium",
+      "question": "Which attack floods a server with traffic to make it unavailable?",
+      "options": ["MITM", "DDoS", "SQL Injection", "Brute force"],
+      "answerIndex": 1
+    },
+    {
+      "id": 7,
+      "category": "web",
+      "difficulty": "medium",
+      "question": "SQL Injection targets?",
+      "options": [
+        "Browser cache",
+        "Databases",
+        "Firewalls",
+        "DNS servers"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 8,
+      "category": "crypto",
+      "difficulty": "medium",
+      "question": "Which algorithm is a form of symmetric encryption?",
+      "options": ["RSA", "ECC", "AES", "SHA-256"],
+      "answerIndex": 2
+    },
+    {
+      "id": 9,
+      "category": "web",
+      "difficulty": "medium",
+      "question": "Cross-Site Scripting (XSS) attacks inject malicious code into?",
+      "options": ["Server logs", "Databases", "Web pages", "Routers"],
+      "answerIndex": 2
+    },
+    {
+      "id": 10,
+      "category": "network",
+      "difficulty": "medium",
+      "question": "Which tool is commonly used to scan for open ports on a network device?",
+      "options": ["Git", "Nmap", "Docker", "Excel"],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 11,
+      "category": "crypto",
+      "difficulty": "medium",
+      "question": "What is the primary purpose of hashing?",
+      "options": [
+        "Encrypting data for confidentiality",
+        "Verifying data integrity",
+        "Compressing large files",
+        "Routing network packets"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 12,
+      "category": "incident",
+      "difficulty": "medium",
+      "question": "What is the first step in a standard incident response plan?",
+      "options": [
+        "Eradication",
+        "Containment",
+        "Preparation/Identification",
+        "Recovery"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 13,
+      "category": "network",
+      "difficulty": "medium",
+      "question": "What is the main security benefit of a VPN?",
+      "options": [
+        "It provides faster internet speeds",
+        "It creates a secure, encrypted tunnel for traffic",
+        "It offers free web hosting",
+        "It assigns a permanent public IP address"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 14,
+      "category": "fundamentals",
+      "difficulty": "medium",
+      "question": "Two-factor authentication (2FA) improves security by?",
+      "options": [
+        "Requiring longer passwords",
+        "Requiring a second, different type of verification",
+        "Using only a one-time password (OTP)",
+        "Disabling login attempts after one failure"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 15,
+      "category": "malware",
+      "difficulty": "medium",
+      "question": "What is the primary action of ransomware?",
+      "options": [
+        "It deletes system logs to hide tracks",
+        "It encrypts a victim's files and demands payment",
+        "It boosts system performance for a fee",
+        "It strengthens firewall rules"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 16,
+      "category": "crypto",
+      "difficulty": "hard",
+      "question": "Which of these attacks targets weaknesses in encryption protocols or algorithms?",
+      "options": [
+        "Replay attack",
+        "Cryptanalysis",
+        "Brute force",
+        "Phishing"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 17,
+      "category": "network",
+      "difficulty": "hard",
+      "question": "ARP spoofing is a technique used to enable which type of attack?",
+      "options": [
+        "Load balancing",
+        "Man-in-the-middle (MITM) attacks",
+        "Data compression",
+        "DNS amplification"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 18,
+      "category": "crypto",
+      "difficulty": "hard",
+      "question": "Public key cryptography (asymmetric encryption) uses...?",
+      "options": [
+        "A single shared key for encryption and decryption",
+        "A pair of keys: one public, one private",
+        "Only a hash function for security",
+        "No keys at all"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 19,
+      "category": "web",
+      "difficulty": "hard",
+      "question": "Cross-Site Request Forgery (CSRF) attacks exploit...?",
+      "options": [
+        "Database vulnerabilities to inject SQL code",
+        "The trust a website has in an authenticated user's browser",
+        "Insecure DNS configurations",
+        "Weaknesses in encryption ciphers"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 20,
+      "category": "analysis",
+      "difficulty": "hard",
+      "question": "What is the primary function of a SIEM tool?",
+      "options": [
+        "Long-term data archival",
+        "Aggregating and analyzing security log data in real-time",
+        "Automated firewall configuration",
+        "Cloud resource provisioning"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 21,
+      "category": "fundamentals",
+      "difficulty": "easy",
+      "question": "Antivirus software is primarily designed to detect and remove what?",
+      "options": ["Hardware malfunctions", "Malware", "Network latency", "Browser cache"],
+      "answerIndex": 1
+    },
+    {
+      "id": 22,
+      "category": "network",
+      "difficulty": "easy",
+      "question": "On which layer of the OSI model does the Internet Protocol (IP) operate?",
+      "options": ["Application", "Transport", "Network", "Physical"],
+      "answerIndex": 2
+    },
+    {
+      "id": 23,
+      "category": "analysis",
+      "difficulty": "medium",
+      "question": "System logs are crucial in security for what reason?",
+      "options": [
+        "They slow down the system, making it harder to attack",
+        "They provide a record of activities for auditing and forensic analysis",
+        "They automatically delete suspicious files",
+        "They encrypt user passwords"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 24,
+      "category": "malware",
+      "difficulty": "medium",
+      "question": "Which type of malware is designed to spread automatically across networks?",
+      "options": ["Trojan", "Worm", "Spyware", "Adware"],
+      "answerIndex": 1
+    },
+    {
+      "id": 25,
+      "category": "analysis",
+      "difficulty": "hard",
+      "question": "What is a 'zero-day' vulnerability?",
+      "options": [
+        "A bug that is more than 10 years old",
+        "A vulnerability that is unknown to the vendor and has no patch",
+        "A leaked password database",
+        "An expired SSL certificate"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 26,
+      "category": "crypto",
+      "difficulty": "medium",
+      "question": "Which cryptographic function ensures that a message has not been altered in transit?",
+      "options": ["Hash", "Firewall", "Router", "Switch"],
+      "answerIndex": 0
+    },
+    {
+      "id": 27,
+      "category": "incident",
+      "difficulty": "medium",
+      "question": "In incident response, what is the goal of 'containment'?",
+      "options": [
+        "To delete all evidence of the attack",
+        "To stop the attack from causing further damage",
+        "To restart all affected systems",
+        "To immediately install new antivirus software"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 28,
+      "category": "analysis",
+      "difficulty": "hard",
+      "question": "What is the primary objective of a penetration test?",
+      "options": [
+        "To build a new application from scratch",
+        "To simulate a real-world attack to identify vulnerabilities",
+        "To perform a full backup of all company data",
+        "To monitor network bandwidth usage"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 29,
+      "category": "network",
+      "difficulty": "medium",
+      "question": "What does IDS stand for in the context of network security?",
+      "options": [
+        "Internal Data System",
+        "Intrusion Detection System",
+        "Internet Domain Server",
+        "Integrated Device Service"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 30,
+      "category": "analysis",
+      "difficulty": "hard",
+      "question": "The 'Principle of Least Privilege' states that...?",
+      "options": [
+        "All users should be given administrator access",
+        "A user should only have the minimum access required to perform their job",
+        "Multiple users should share a single powerful account",
+        "Authentication should be disabled for internal systems"
+      ],
+      "answerIndex": 1
+    }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "difficulty": "medium",
+    "category": "conflict-resolution",
+    "question": "You disagree with a colleague's technical approach during a team meeting. What is the most professional first step?",
+    "options": [
+      "Immediately point out the flaws in their approach in front of everyone.",
+      "Stay silent to avoid conflict and discuss it with your manager privately later.",
+      "Listen to their full explanation, then ask clarifying questions to understand their perspective before presenting an alternative.",
+      "Interrupt them and present your own, better solution."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 2,
+    "difficulty": "medium",
+    "category": "clarity",
+    "question": "You need to explain a complex technical concept to a non-technical stakeholder. What is the best approach?",
+    "options": [
+      "Use as much technical jargon as possible to demonstrate your expertise.",
+      "Tell them it's too complicated for them to understand and they should just trust you.",
+      "Send them a long, detailed technical document to read.",
+      "Use analogies and focus on the business impact and outcomes, avoiding deep technical details."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "category": "written-communication",
+    "question": "When sending an important email to your team, what should you do before hitting 'send'?",
+    "options": [
+      "Mark it as 'Urgent' to ensure everyone reads it immediately.",
+      "Proofread it for clarity, grammar, and typos, and ensure the subject line is clear and concise.",
+      "Add as many people as possible to the CC list to maximize visibility.",
+      "Write it as quickly as possible to save time."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "difficulty": "medium",
+    "category": "feedback",
+    "question": "You receive constructive feedback from your manager that you don't fully agree with. How should you respond?",
+    "options": [
+      "Defend your actions and explain why the feedback is incorrect.",
+      "Politely thank them, ask for specific examples to better understand their point of view, and take time to reflect on it.",
+      "Ignore the feedback and continue working as you were before.",
+      "Agree with everything to end the conversation quickly."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "category": "active-listening",
+    "question": "During a virtual meeting, a team member is sharing an update. What is the best way to show you are actively listening?",
+    "options": [
+      "Mute your microphone, turn off your camera, and work on another task.",
+      "Wait for them to finish, then summarize their key points and ask a relevant question.",
+      "Interrupt them frequently with your own ideas and suggestions.",
+      "Stay silent and provide no verbal or non-verbal feedback."
+    ],
+    "answerIndex": 1
+  }
+]

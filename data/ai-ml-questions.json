@@ -1,0 +1,378 @@
+
+[
+    {
+      "id": 1,
+      "category": "python",
+      "difficulty": "easy",
+      "question": "Which library is most commonly used for machine learning in Python?",
+      "options": ["Flask", "Scikit-learn", "React", "Bootstrap"],
+      "answerIndex": 1
+    },
+    {
+      "id": 2,
+      "category": "basics",
+      "difficulty": "easy",
+      "question": "Supervised learning requires?",
+      "options": [
+        "Unlabeled data",
+        "Labeled data",
+        "No data",
+        "Only images"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 3,
+      "category": "metrics",
+      "difficulty": "easy",
+      "question": "What does 'Accuracy' measure in a classification model?",
+      "options": [
+        "The time it takes to train the model",
+        "The ratio of correct predictions to the total number of predictions",
+        "The size of the model in megabytes",
+        "The speed of the learning rate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "algorithms",
+      "difficulty": "easy",
+      "question": "Which of these is a classification algorithm?",
+      "options": ["Linear Regression", "K-Means", "Logistic Regression", "PCA"],
+      "answerIndex": 2
+    },
+    {
+      "id": 5,
+      "category": "data",
+      "difficulty": "easy",
+      "question": "How is missing data in a dataset typically handled?",
+      "options": [
+        "By always ignoring it",
+        "By imputation (filling in) or removal of the affected data",
+        "By encrypting the missing values",
+        "By compressing the dataset"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 6,
+      "category": "statistics",
+      "difficulty": "medium",
+      "question": "What does standard deviation measure?",
+      "options": [
+        "The average value of the data",
+        "The amount of variation or spread in a set of data",
+        "The total number of samples",
+        "The model's prediction accuracy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 7,
+      "category": "training",
+      "difficulty": "medium",
+      "question": "Overfitting occurs when a model...?",
+      "options": [
+        "performs well on new, unseen data",
+        "learns the training data too well, including its noise",
+        "is trained on a very large dataset",
+        "has very low training accuracy"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 8,
+      "category": "metrics",
+      "difficulty": "medium",
+      "question": "For an imbalanced classification problem, which metric is generally more useful than accuracy?",
+      "options": [
+        "Accuracy",
+        "Precision, Recall, or F1-Score",
+        "Variance",
+        "Mean Squared Error (MSE)"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 9,
+      "category": "algorithms",
+      "difficulty": "medium",
+      "question": "Which of these is an example of an unsupervised learning algorithm?",
+      "options": [
+        "Decision Tree",
+        "Support Vector Machine (SVM)",
+        "K-Means Clustering",
+        "Naive Bayes"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 10,
+      "category": "data",
+      "difficulty": "medium",
+      "question": "What is the primary benefit of feature scaling?",
+      "options": [
+        "It reduces the memory usage of the dataset",
+        "It helps gradient-based algorithms converge faster and more stably",
+        "It encrypts the features for security",
+        "It deletes unnecessary columns"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 11,
+      "category": "math",
+      "difficulty": "medium",
+      "question": "What is the purpose of the gradient descent algorithm?",
+      "options": [
+        "To increase the model's loss",
+        "To iteratively find the parameters that minimize the loss function",
+        "To sort data efficiently",
+        "To scale features to a common range"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 12,
+      "category": "deep learning",
+      "difficulty": "medium",
+      "question": "What problem does the ReLU (Rectified Linear Unit) activation function help to solve in deep neural networks?",
+      "options": [
+        "Overfitting",
+        "The vanishing gradient problem",
+        "Data leakage during preprocessing",
+        "High memory consumption"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 13,
+      "category": "metrics",
+      "difficulty": "medium",
+      "question": "A confusion matrix is used to evaluate the performance of which type of model?",
+      "options": [
+        "Clustering",
+        "Regression",
+        "Classification",
+        "Dimensionality reduction"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": 14,
+      "category": "training",
+      "difficulty": "medium",
+      "question": "What is the main advantage of using cross-validation?",
+      "options": [
+        "It reduces data storage requirements",
+        "It provides a more reliable estimate of the model's performance on unseen data",
+        "It makes the training process significantly faster",
+        "It encrypts the training data"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 15,
+      "category": "algorithms",
+      "difficulty": "medium",
+      "question": "How do decision trees split the data at each node?",
+      "options": [
+        "By making a random choice",
+        "Based on criteria that maximize information gain or reduce impurity",
+        "Based on the time the data was collected",
+        "Based on the memory available"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 16,
+      "category": "deep learning",
+      "difficulty": "hard",
+      "question": "Convolutional Neural Networks (CNNs) are particularly well-suited for what type of task?",
+      "options": [
+        "Encrypting text data",
+        "Processing grid-like data, such as images",
+        "Sorting large arrays of numbers",
+        "Storing files in a database"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 17,
+      "category": "deep learning",
+      "difficulty": "hard",
+      "question": "Recurrent Neural Networks (RNNs) are most suitable for which type of data?",
+      "options": [
+        "Static, independent data points",
+        "Sequential or time-series data",
+        "Performing database joins",
+        "Rendering CSS styles"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 18,
+      "category": "math",
+      "difficulty": "hard",
+      "question": "What is the primary purpose of regularization techniques like L1 and L2?",
+      "options": [
+        "To prevent underfitting",
+        "To prevent overfitting by penalizing large model weights",
+        "To scale the input features",
+        "To clean the dataset"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 19,
+      "category": "training",
+      "difficulty": "hard",
+      "question": "What is a likely consequence of setting a learning rate that is too high?",
+      "options": [
+        "Very slow training convergence",
+        "The model's loss may diverge or oscillate wildly",
+        "Guaranteed better accuracy",
+        "A smaller final model size"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 20,
+      "category": "evaluation",
+      "difficulty": "hard",
+      "question": "The bias-variance tradeoff involves finding a balance between...?",
+      "options": [
+        "Training speed and memory usage",
+        "A model that is too simple (underfitting) and one that is too complex (overfitting)",
+        "The amount of data and the storage available",
+        "CPU and GPU utilization during training"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 21,
+      "category": "python",
+      "difficulty": "easy",
+      "question": "Which Python library is fundamental for numerical computation and working with arrays?",
+      "options": ["NumPy", "Photoshop", "Git", "Docker"],
+      "answerIndex": 0
+    },
+    {
+      "id": 22,
+      "category": "algorithms",
+      "difficulty": "easy",
+      "question": "What does a linear regression model predict?",
+      "options": [
+        "Discrete categories",
+        "A continuous numerical value",
+        "Images",
+        "Text sequences"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 23,
+      "category": "data",
+      "difficulty": "medium",
+      "question": "What is the purpose of a train-test split?",
+      "options": [
+        "To improve the user interface",
+        "To evaluate how well the model generalizes to new, unseen data",
+        "To increase the memory available for training",
+        "To encrypt the dataset"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 24,
+      "category": "deep learning",
+      "difficulty": "medium",
+      "question": "What is the purpose of 'dropout' in a neural network?",
+      "options": [
+        "To increase the number of neurons",
+        "To act as a regularization technique to reduce overfitting",
+        "To improve memory efficiency",
+        "To scale the input data"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 25,
+      "category": "metrics",
+      "difficulty": "hard",
+      "question": "What does the ROC-AUC score measure?",
+      "options": [
+        "The time taken for training",
+        "The ability of a classifier to distinguish between classes",
+        "The size of the model in memory",
+        "The magnitude of the gradient"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 26,
+      "category": "optimization",
+      "difficulty": "medium",
+      "question": "In deep learning, what does the 'batch size' parameter affect?",
+      "options": [
+        "The stability and speed of the learning process",
+        "The type of data encryption used",
+        "The network protocol for training",
+        "The final user interface"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 27,
+      "category": "algorithms",
+      "difficulty": "medium",
+      "question": "A Random Forest is an example of...?",
+      "options": [
+        "A single decision tree model",
+        "An ensemble learning method",
+        "A type of neural network",
+        "A clustering method"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 28,
+      "category": "deep learning",
+      "difficulty": "hard",
+      "question": "How does backpropagation update the weights in a neural network?",
+      "options": [
+        "By making random guesses",
+        "By using the gradient of the loss function",
+        "By using a hash function",
+        "By sorting the weights"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": 29,
+      "category": "math",
+      "difficulty": "medium",
+      "question": "The value of a correlation coefficient ranges between?",
+      "options": ["0 and 100", "-1 and 1", "0 and 1 only", "-10 and 10"],
+      "answerIndex": 1
+    },
+    {
+      "id": 30,
+      "category": "deployment",
+      "difficulty": "hard",
+      "question": "What is the purpose of model serving tools like TensorFlow Serving?",
+      "options": [
+        "They are only used for training models",
+        "To deploy trained models for real-time inference in production",
+        "To clean and preprocess data",
+        "To write and run Jupyter notebooks"
+      ],
+      "answerIndex": 1
+    }
+]

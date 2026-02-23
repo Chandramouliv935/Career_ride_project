@@ -1,0 +1,350 @@
+{
+  "state": "Tamil Nadu",
+  "total_districts": 38,
+  "smart_opportunities": [
+
+    {
+      "district": "Ariyalur",
+      "hub": "Trichy",
+      "opportunities": [
+        { "name": "Dalmia Cement", "sector": "Cement", "website": "https://www.dalmiacement.com" },
+        { "name": "India Cements", "sector": "Cement", "website": "https://www.indiacements.co.in" }
+      ]
+    },
+
+    {
+      "district": "Chengalpattu",
+      "hub": "Chennai",
+      "opportunities": [
+        { "name": "Hyundai Motor India", "sector": "Automobile", "website": "https://www.hyundai.com/in" },
+        { "name": "Ford India", "sector": "Automobile", "website": "https://www.india.ford.com" }
+      ]
+    },
+
+    {
+      "district": "Chennai",
+      "hub": "Chennai",
+      "opportunities": [
+        { "name": "Zoho Corporation", "sector": "Software", "website": "https://www.zoho.com" },
+        { "name": "TCS", "sector": "IT Services", "website": "https://www.tcs.com" },
+        { "name": "Infosys", "sector": "IT Services", "website": "https://www.infosys.com" }
+      ]
+    },
+
+    {
+      "district": "Coimbatore",
+      "hub": "Coimbatore",
+      "opportunities": [
+        { "name": "Bosch India", "sector": "Manufacturing", "website": "https://www.bosch.in" },
+        { "name": "Lakshmi Machine Works", "sector": "Industrial Machinery", "website": "https://www.lmwglobal.com" }
+      ]
+    },
+
+    {
+      "district": "Cuddalore",
+      "hub": "Cuddalore",
+      "opportunities": [
+        { "name": "Chemplast Sanmar", "sector": "Chemical", "website": "https://www.chemplastsanmar.com" },
+        { "name": "SIPCOT", "sector": "Industrial Park", "website": "https://sipcot.tn.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Dharmapuri",
+      "hub": "Salem",
+      "opportunities": [
+        { "name": "TANSEED", "sector": "Agri Tech", "website": "https://www.tn.gov.in" },
+        { "name": "Tamil Nadu Agro Industries", "sector": "Agri Industry", "website": "https://www.tnagro.org" }
+      ]
+    },
+
+    {
+      "district": "Dindigul",
+      "hub": "Madurai",
+      "opportunities": [
+        { "name": "Dindigul Leather Cluster", "sector": "Leather", "website": "https://www.msmeonline.tn.gov.in" },
+        { "name": "Pon Pure Chemicals", "sector": "Chemical", "website": "https://www.ponpurechemicals.com" }
+      ]
+    },
+
+    {
+      "district": "Erode",
+      "hub": "Erode",
+      "opportunities": [
+        { "name": "Erode Textile Cluster", "sector": "Textile", "website": "https://www.tn.gov.in" },
+        { "name": "Sakthi Sugars", "sector": "Agro Industry", "website": "https://www.sakthisugars.com" }
+      ]
+    },
+
+    {
+      "district": "Kallakurichi",
+      "hub": "Villupuram",
+      "opportunities": [
+        { "name": "TN Skill Development Corporation", "sector": "Skill Development", "website": "https://www.tnskill.tn.gov.in" },
+        { "name": "TNCSC", "sector": "Public Distribution", "website": "https://www.tncsc.tn.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Kanchipuram",
+      "hub": "Chennai",
+      "opportunities": [
+        { "name": "Foxconn India", "sector": "Electronics", "website": "https://www.foxconn.com" },
+        { "name": "Saint-Gobain India", "sector": "Manufacturing", "website": "https://www.saint-gobain.co.in" }
+      ]
+    },
+
+    {
+      "district": "Kanniyakumari",
+      "hub": "Nagercoil",
+      "opportunities": [
+        { "name": "Tamil Nadu Tourism", "sector": "Tourism", "website": "https://www.tamilnadutourism.tn.gov.in" },
+        { "name": "ISRO Mahendragiri", "sector": "Aerospace", "website": "https://www.isro.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Karur",
+      "hub": "Karur",
+      "opportunities": [
+        { "name": "Karur Vysya Bank", "sector": "Banking", "website": "https://www.kvb.co.in" },
+        { "name": "Home Textile Exporters Association", "sector": "Textile", "website": "https://www.tea-india.org" }
+      ]
+    },
+
+    {
+      "district": "Krishnagiri",
+      "hub": "Hosur",
+      "opportunities": [
+        { "name": "Ashok Leyland", "sector": "Automobile", "website": "https://www.ashokleyland.com" },
+        { "name": "TVS Motor Company", "sector": "Automobile", "website": "https://www.tvsmotor.com" }
+      ]
+    },
+
+    {
+      "district": "Madurai",
+      "hub": "Madurai",
+      "opportunities": [
+        { "name": "ELCOT IT Park", "sector": "IT Park", "website": "https://www.elcot.in" },
+        { "name": "HCLTech", "sector": "IT Services", "website": "https://www.hcltech.com" }
+      ]
+    },
+
+    {
+      "district": "Mayiladuthurai",
+      "hub": "Nagapattinam",
+      "opportunities": [
+        { "name": "TN Fisheries Department", "sector": "Fisheries", "website": "https://www.fisheries.tn.gov.in" },
+        { "name": "TN Agro Industries", "sector": "Agri Industry", "website": "https://www.tnagro.org" }
+      ]
+    },
+
+    {
+      "district": "Nagapattinam",
+      "hub": "Nagapattinam",
+      "opportunities": [
+        { "name": "VOC Port Authority", "sector": "Port", "website": "https://www.vocport.gov.in" },
+        { "name": "Indian Oil Corporation", "sector": "Energy", "website": "https://www.iocl.com" }
+      ]
+    },
+
+    {
+      "district": "Namakkal",
+      "hub": "Namakkal",
+      "opportunities": [
+        { "name": "Suguna Foods", "sector": "Poultry Industry", "website": "https://www.sugunafoods.com" },
+        { "name": "Tamil Nadu Transport Corporation", "sector": "Transport", "website": "https://www.tnstc.in" }
+      ]
+    },
+
+    {
+      "district": "Nilgiris",
+      "hub": "Ooty",
+      "opportunities": [
+        { "name": "Hindustan Unilever Tea", "sector": "Tea Industry", "website": "https://www.hul.co.in" },
+        { "name": "Tamil Nadu Tourism Development Corporation", "sector": "Tourism", "website": "https://www.ttdconline.com" }
+      ]
+    },
+
+    {
+      "district": "Perambalur",
+      "hub": "Trichy",
+      "opportunities": [
+        { "name": "India Cements", "sector": "Cement", "website": "https://www.indiacements.co.in" },
+        { "name": "TN Skill Development Corporation", "sector": "Skill Training", "website": "https://www.tnskill.tn.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Pudukkottai",
+      "hub": "Trichy",
+      "opportunities": [
+        { "name": "Tamil Nadu Small Industries Development Corporation (SIDCO)", "sector": "MSME", "website": "https://www.sidco.tn.gov.in" },
+        { "name": "TN Agro Industries", "sector": "Agri", "website": "https://www.tnagro.org" }
+      ]
+    },
+
+    {
+      "district": "Ramanathapuram",
+      "hub": "Ramanathapuram",
+      "opportunities": [
+        { "name": "TN Fisheries Department", "sector": "Fisheries", "website": "https://www.fisheries.tn.gov.in" },
+        { "name": "Tamil Nadu Salt Corporation", "sector": "Salt Industry", "website": "https://www.tnsalt.com" }
+      ]
+    },
+
+    {
+      "district": "Ranipet",
+      "hub": "Vellore",
+      "opportunities": [
+        { "name": "Tata Leather Group", "sector": "Leather", "website": "https://www.tata.com" },
+        { "name": "SIDCO Industrial Estate", "sector": "Industrial", "website": "https://www.sidco.tn.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Salem",
+      "hub": "Salem",
+      "opportunities": [
+        { "name": "SAIL Salem Steel Plant", "sector": "Steel", "website": "https://www.sail.co.in" },
+        { "name": "Malco Energy", "sector": "Energy", "website": "https://www.vedantalimited.com" }
+      ]
+    },
+
+    {
+      "district": "Sivaganga",
+      "hub": "Karaikudi",
+      "opportunities": [
+        { "name": "Chettinad Cement", "sector": "Cement", "website": "https://www.chettinad.com" },
+        { "name": "TN Handicrafts Development Corporation", "sector": "Handicrafts", "website": "https://www.tncrafts.in" }
+      ]
+    },
+
+    {
+      "district": "Tenkasi",
+      "hub": "Tirunelveli",
+      "opportunities": [
+        { "name": "TANGEDCO Wind Energy", "sector": "Renewable Energy", "website": "https://www.tangedco.gov.in" },
+        { "name": "TN Agro Industries", "sector": "Agri", "website": "https://www.tnagro.org" }
+      ]
+    },
+
+    {
+      "district": "Thanjavur",
+      "hub": "Thanjavur",
+      "opportunities": [
+        { "name": "TN Rice Mills Association", "sector": "Agri Processing", "website": "https://www.tn.gov.in" },
+        { "name": "Cauvery Delta Agro Industries", "sector": "Agri Tech", "website": "https://www.tnagro.org" }
+      ]
+    },
+
+    {
+      "district": "Theni",
+      "hub": "Theni",
+      "opportunities": [
+        { "name": "Spices Board India", "sector": "Spices Industry", "website": "https://www.indianspices.com" },
+        { "name": "TN Horticulture Department", "sector": "Agri", "website": "https://www.tnhorticulture.tn.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Thoothukudi",
+      "hub": "Thoothukudi",
+      "opportunities": [
+        { "name": "VOC Port Authority", "sector": "Port", "website": "https://www.vocport.gov.in" },
+        { "name": "Sterlite Copper", "sector": "Metal Industry", "website": "https://www.vedantalimited.com" }
+      ]
+    },
+
+    {
+      "district": "Tiruchirappalli",
+      "hub": "Trichy",
+      "opportunities": [
+        { "name": "BHEL", "sector": "Engineering", "website": "https://www.bhel.com" },
+        { "name": "Ordnance Factory Trichy", "sector": "Defense Manufacturing", "website": "https://www.avnl.co.in" }
+      ]
+    },
+
+    {
+      "district": "Tirunelveli",
+      "hub": "Tirunelveli",
+      "opportunities": [
+        { "name": "Tamil Nadu Energy Development Agency", "sector": "Renewable Energy", "website": "https://www.teda.in" },
+        { "name": "NLC India Limited", "sector": "Energy", "website": "https://www.nlcindia.in" }
+      ]
+    },
+
+    {
+      "district": "Tirupathur",
+      "hub": "Vellore",
+      "opportunities": [
+        { "name": "SIDCO Industrial Estate", "sector": "Industrial", "website": "https://www.sidco.tn.gov.in" },
+        { "name": "Ambur Leather Cluster", "sector": "Leather", "website": "https://www.cleindia.com" }
+      ]
+    },
+
+    {
+      "district": "Tiruppur",
+      "hub": "Tiruppur",
+      "opportunities": [
+        { "name": "Tiruppur Exporters Association", "sector": "Garment Export", "website": "https://www.tea-india.org" },
+        { "name": "Eastman Exports", "sector": "Textile Export", "website": "https://www.eastmanexports.com" }
+      ]
+    },
+
+    {
+      "district": "Tiruvallur",
+      "hub": "Chennai",
+      "opportunities": [
+        { "name": "Caterpillar India", "sector": "Heavy Machinery", "website": "https://www.caterpillar.com" },
+        { "name": "Ashok Leyland", "sector": "Automobile", "website": "https://www.ashokleyland.com" }
+      ]
+    },
+
+    {
+      "district": "Tiruvannamalai",
+      "hub": "Tiruvannamalai",
+      "opportunities": [
+        { "name": "Tamil Nadu Tourism", "sector": "Tourism", "website": "https://www.tamilnadutourism.tn.gov.in" },
+        { "name": "TN Rural Livelihood Mission", "sector": "Rural Development", "website": "https://www.tnrd.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Tiruvarur",
+      "hub": "Tiruvarur",
+      "opportunities": [
+        { "name": "TNCSC", "sector": "Agri Distribution", "website": "https://www.tncsc.tn.gov.in" },
+        { "name": "Fisheries Department TN", "sector": "Fisheries", "website": "https://www.fisheries.tn.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Vellore",
+      "hub": "Vellore",
+      "opportunities": [
+        { "name": "CMC Vellore", "sector": "Healthcare", "website": "https://www.cmch-vellore.edu" },
+        { "name": "VIT University", "sector": "Education & Research", "website": "https://vit.ac.in" }
+      ]
+    },
+
+    {
+      "district": "Viluppuram",
+      "hub": "Viluppuram",
+      "opportunities": [
+        { "name": "SIPCOT", "sector": "Industrial Park", "website": "https://sipcot.tn.gov.in" },
+        { "name": "TN Skill Development Corporation", "sector": "Skill Training", "website": "https://www.tnskill.tn.gov.in" }
+      ]
+    },
+
+    {
+      "district": "Virudhunagar",
+      "hub": "Sivakasi",
+      "opportunities": [
+        { "name": "Standard Fireworks", "sector": "Fireworks Industry", "website": "https://www.standardfireworks.in" },
+        { "name": "Tamil Nadu Small Industries Development Corporation", "sector": "MSME", "website": "https://www.sidco.tn.gov.in" }
+      ]
+    }
+
+  ]
+}

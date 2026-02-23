@@ -1,0 +1,512 @@
+{
+  "state": "Tamil Nadu",
+  "type": "remote_smart_opportunities",
+  "districts": [
+    {
+      "district": "Ariyalur",
+      "remote_opportunities": [
+        {
+          "company": "Zoho Corporation",
+          "role": "Remote Software Developer",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://www.zoho.com/careers.html"
+        },
+        {
+          "company": "Amazon India",
+          "role": "Virtual Customer Service Associate",
+          "sector": "E-commerce",
+          "work_type": "Remote",
+          "company_url": "https://www.amazon.jobs/en/locations/india"
+        }
+      ]
+    },
+    {
+      "district": "Chengalpattu",
+      "remote_opportunities": [
+        {
+          "company": "Infosys",
+          "role": "Remote Process Executive",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://www.infosys.com/careers/"
+        },
+        {
+          "company": "Freshworks",
+          "role": "Customer Support Executive (Remote)",
+          "sector": "SaaS",
+          "work_type": "Remote",
+          "company_url": "https://www.freshworks.com/company/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Chennai",
+      "remote_opportunities": [
+        {
+          "company": "TCS",
+          "role": "Remote Systems Engineer",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://www.tcs.com/careers"
+        },
+        {
+          "company": "Paytm",
+          "role": "Remote Sales Executive",
+          "sector": "FinTech",
+          "work_type": "Remote",
+          "company_url": "https://paytm.com/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Coimbatore",
+      "remote_opportunities": [
+        {
+          "company": "Cognizant",
+          "role": "Remote Analyst",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://careers.cognizant.com/global/en"
+        },
+        {
+          "company": "Wipro",
+          "role": "Remote Project Engineer",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://careers.wipro.com/"
+        }
+      ]
+    },
+    {
+      "district": "Cuddalore",
+      "remote_opportunities": [
+        {
+          "company": "Sutherland",
+          "role": "Remote Customer Support",
+          "sector": "BPO",
+          "work_type": "Remote",
+          "company_url": "https://www.sutherlandglobal.com/careers"
+        },
+        {
+          "company": "Teleperformance India",
+          "role": "Work From Home Associate",
+          "sector": "BPO",
+          "work_type": "Remote",
+          "company_url": "https://www.teleperformance.com/en-us/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Dharmapuri",
+      "remote_opportunities": [
+        {
+          "company": "BYJU'S",
+          "role": "Remote Academic Counselor",
+          "sector": "EdTech",
+          "work_type": "Remote",
+          "company_url": "https://careers.byjus.com/"
+        },
+        {
+          "company": "Unacademy",
+          "role": "Remote Educator",
+          "sector": "EdTech",
+          "work_type": "Remote",
+          "company_url": "https://unacademy.com/careers"
+        }
+      ]
+    },
+    {
+      "district": "Dindigul",
+      "remote_opportunities": [
+        {
+          "company": "Accenture India",
+          "role": "Remote Business Associate",
+          "sector": "Consulting",
+          "work_type": "Remote",
+          "company_url": "https://www.accenture.com/in-en/careers"
+        },
+        {
+          "company": "PhonePe",
+          "role": "Remote Relationship Executive",
+          "sector": "FinTech",
+          "work_type": "Remote",
+          "company_url": "https://www.phonepe.com/careers/"
+        }
+      ]
+    },
+
+    {
+      "district": "Erode",
+      "remote_opportunities": [
+        {
+          "company": "HCLTech",
+          "role": "Remote Technical Support",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://www.hcltech.com/careers"
+        }
+      ]
+    },
+    {
+      "district": "Kallakurichi",
+      "remote_opportunities": [
+        {
+          "company": "Vedantu",
+          "role": "Online Tutor",
+          "sector": "EdTech",
+          "work_type": "Remote",
+          "company_url": "https://www.vedantu.com/careers"
+        }
+      ]
+    },
+    {
+      "district": "Kancheepuram",
+      "remote_opportunities": [
+        {
+          "company": "Capgemini India",
+          "role": "Remote Software Engineer",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://www.capgemini.com/in-en/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Kanniyakumari",
+      "remote_opportunities": [
+        {
+          "company": "Meesho",
+          "role": "Remote Operations Executive",
+          "sector": "E-commerce",
+          "work_type": "Remote",
+          "company_url": "https://careers.meesho.com/"
+        }
+      ]
+    },
+    {
+      "district": "Karur",
+      "remote_opportunities": [
+        {
+          "company": "Flipkart",
+          "role": "Remote Seller Support",
+          "sector": "E-commerce",
+          "work_type": "Remote",
+          "company_url": "https://www.flipkartcareers.com/"
+        }
+      ]
+    },
+    {
+      "district": "Krishnagiri",
+      "remote_opportunities": [
+        {
+          "company": "IBM India",
+          "role": "Remote Technical Associate",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://www.ibm.com/in-en/employment/"
+        }
+      ]
+    },
+    {
+      "district": "Madurai",
+      "remote_opportunities": [
+        {
+          "company": "Zoho Corporation",
+          "role": "Remote QA Engineer",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://www.zoho.com/careers.html"
+        }
+      ]
+    },
+    {
+      "district": "Mayiladuthurai",
+      "remote_opportunities": [
+        {
+          "company": "PhysicsWallah",
+          "role": "Remote Faculty",
+          "sector": "EdTech",
+          "work_type": "Remote",
+          "company_url": "https://www.pw.live/careers"
+        }
+      ]
+    },
+    {
+      "district": "Nagapattinam",
+      "remote_opportunities": [
+        {
+          "company": "Reliance Jio",
+          "role": "Remote Customer Associate",
+          "sector": "Telecom",
+          "work_type": "Remote",
+          "company_url": "https://careers.jio.com/"
+        }
+      ]
+    },
+    {
+      "district": "Namakkal",
+      "remote_opportunities": [
+        {
+          "company": "UpGrad",
+          "role": "Remote Mentor",
+          "sector": "EdTech",
+          "work_type": "Remote",
+          "company_url": "https://www.upgrad.com/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Nilgiris",
+      "remote_opportunities": [
+        {
+          "company": "Amazon India",
+          "role": "Virtual Support Associate",
+          "sector": "E-commerce",
+          "work_type": "Remote",
+          "company_url": "https://www.amazon.jobs/en/locations/india"
+        }
+      ]
+    },
+    {
+      "district": "Perambalur",
+      "remote_opportunities": [
+        {
+          "company": "Tata Elxsi",
+          "role": "Remote Design Engineer",
+          "sector": "Engineering",
+          "work_type": "Remote",
+          "company_url": "https://www.tataelxsi.com/careers"
+        }
+      ]
+    },
+    {
+      "district": "Pudukkottai",
+      "remote_opportunities": [
+        {
+          "company": "SBI Life",
+          "role": "Remote Relationship Officer",
+          "sector": "Insurance",
+          "work_type": "Remote",
+          "company_url": "https://www.sbilife.co.in/en/about-us/careers"
+        }
+      ]
+    },
+    {
+      "district": "Ramanathapuram",
+      "remote_opportunities": [
+        {
+          "company": "L&T Technology Services",
+          "role": "Remote Engineer",
+          "sector": "Engineering",
+          "work_type": "Remote",
+          "company_url": "https://www.ltts.com/careers"
+        }
+      ]
+    },
+    {
+      "district": "Ranipet",
+      "remote_opportunities": [
+        {
+          "company": "Cognizant",
+          "role": "Remote Tester",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://careers.cognizant.com/global/en"
+        }
+      ]
+    },
+    {
+      "district": "Salem",
+      "remote_opportunities": [
+        {
+          "company": "HDFC Bank",
+          "role": "Remote Sales Officer",
+          "sector": "Banking",
+          "work_type": "Remote",
+          "company_url": "https://www.hdfcbank.com/personal/about-us/careers"
+        }
+      ]
+    },
+    {
+      "district": "Sivaganga",
+      "remote_opportunities": [
+        {
+          "company": "Tech Mahindra",
+          "role": "Remote Service Desk Associate",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://careers.techmahindra.com/"
+        }
+      ]
+    },
+    {
+      "district": "Tenkasi",
+      "remote_opportunities": [
+        {
+          "company": "Unacademy",
+          "role": "Remote Educator",
+          "sector": "EdTech",
+          "work_type": "Remote",
+          "company_url": "https://unacademy.com/careers"
+        }
+      ]
+    },
+    {
+      "district": "Thanjavur",
+      "remote_opportunities": [
+        {
+          "company": "Zoho Corporation",
+          "role": "Remote Developer",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://www.zoho.com/careers.html"
+        }
+      ]
+    },
+    {
+      "district": "Theni",
+      "remote_opportunities": [
+        {
+          "company": "PhonePe",
+          "role": "Remote Business Associate",
+          "sector": "FinTech",
+          "work_type": "Remote",
+          "company_url": "https://www.phonepe.com/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Thoothukudi",
+      "remote_opportunities": [
+        {
+          "company": "Infosys",
+          "role": "Remote Systems Engineer",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://www.infosys.com/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Tiruchirappalli",
+      "remote_opportunities": [
+        {
+          "company": "Wipro",
+          "role": "Remote Analyst",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://careers.wipro.com/"
+        }
+      ]
+    },
+    {
+      "district": "Tirunelveli",
+      "remote_opportunities": [
+        {
+          "company": "Capgemini India",
+          "role": "Remote Associate Consultant",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://www.capgemini.com/in-en/careers/"
+        }
+      ]
+    },
+    {
+      "district": "Tirupathur",
+      "remote_opportunities": [
+        {
+          "company": "Flipkart",
+          "role": "Remote Operations Associate",
+          "sector": "E-commerce",
+          "work_type": "Remote",
+          "company_url": "https://www.flipkartcareers.com/"
+        }
+      ]
+    },
+    {
+      "district": "Tiruppur",
+      "remote_opportunities": [
+        {
+          "company": "Amazon India",
+          "role": "Virtual Support Associate",
+          "sector": "E-commerce",
+          "work_type": "Remote",
+          "company_url": "https://www.amazon.jobs/en/locations/india"
+        }
+      ]
+    },
+    {
+      "district": "Tiruvallur",
+      "remote_opportunities": [
+        {
+          "company": "BYJU'S",
+          "role": "Remote Academic Mentor",
+          "sector": "EdTech",
+          "work_type": "Remote",
+          "company_url": "https://careers.byjus.com/"
+        }
+      ]
+    },
+    {
+      "district": "Tiruvannamalai",
+      "remote_opportunities": [
+        {
+          "company": "Meesho",
+          "role": "Remote Support Executive",
+          "sector": "E-commerce",
+          "work_type": "Remote",
+          "company_url": "https://careers.meesho.com/"
+        }
+      ]
+    },
+    {
+      "district": "Tiruvarur",
+      "remote_opportunities": [
+        {
+          "company": "IBM India",
+          "role": "Remote Associate Developer",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://www.ibm.com/in-en/employment/"
+        }
+      ]
+    },
+    {
+      "district": "Vellore",
+      "remote_opportunities": [
+        {
+          "company": "HCLTech",
+          "role": "Remote Service Desk Analyst",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://www.hcltech.com/careers"
+        }
+      ]
+    },
+    {
+      "district": "Viluppuram",
+      "remote_opportunities": [
+        {
+          "company": "Zoho Corporation",
+          "role": "Remote Technical Support",
+          "sector": "IT",
+          "work_type": "Remote",
+          "company_url": "https://www.zoho.com/careers.html"
+        }
+      ]
+    },
+    {
+      "district": "Virudhunagar",
+      "remote_opportunities": [
+        {
+          "company": "Tech Mahindra",
+          "role": "Remote Support Executive",
+          "sector": "IT Services",
+          "work_type": "Remote",
+          "company_url": "https://careers.techmahindra.com/"
+        }
+      ]
+    }
+  ]
+}
